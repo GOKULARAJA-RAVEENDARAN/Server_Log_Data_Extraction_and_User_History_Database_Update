@@ -1,0 +1,36 @@
+2025-04-17 11:11:47 - ETL process started.
+2025-04-17 11:11:47 - Starting log data extraction.
+2025-04-17 11:11:47 - Extracted 1797 records from log file.
+2025-04-17 11:11:47 - Connected to MongoDB.
+2025-04-17 11:11:51 - Inserted 0 new records into MongoDB.
+2025-04-17 11:11:51 - MongoDB connection closed.
+2025-04-17 11:11:51 - Fetched 1797 records from MongoDB.
+2025-04-17 11:11:51 - MongoDB connection closed after fetch.
+2025-04-17 11:11:52 - Connected to MySQL.
+2025-04-17 11:11:52 - Inserted 1797 new records into MySQL.
+2025-04-17 11:11:52 - Running query: Distinct emails in the user history
+2025-04-17 11:11:52 - Running query: Count of emails received per day
+2025-04-17 11:11:52 - Running query: First and last email dates for each email address
+2025-04-17 11:11:52 - Running query: Count of total emails from each domain
+2025-04-17 11:11:52 - All MySQL queries executed successfully.
+2025-04-17 11:11:52 - MySQL connection closed.
+2025-04-17 11:11:52 - ETL process completed.
+2025-04-17 11:11:52 - #########################################################################################
+2025-04-17 11:12:03 - ETL process started.
+2025-04-17 11:12:03 - Starting log data extraction.
+2025-04-17 11:12:03 - Extracted 1797 records from log file.
+2025-04-17 11:12:03 - Connected to MongoDB.
+2025-04-17 11:12:06 - Inserted 0 new records into MongoDB.
+2025-04-17 11:12:06 - MongoDB connection closed.
+2025-04-17 11:12:06 - Fetched 1797 records from MongoDB.
+2025-04-17 11:12:06 - MongoDB connection closed after fetch.
+2025-04-17 11:12:07 - Connected to MySQL.
+2025-04-17 11:12:07 - Inserted 1797 new records into MySQL.
+2025-04-17 11:12:07 - Running query: Distinct emails in the user history
+2025-04-17 11:12:07 - Running query: Count of emails received per day
+2025-04-17 11:12:07 - Running query: First and last email dates for each email address
+2025-04-17 11:12:08 - Running query: Count of total emails from each domain
+2025-04-17 11:12:08 - All MySQL queries executed successfully.
+2025-04-17 11:12:08 - MySQL connection closed.
+2025-04-17 11:12:08 - ETL process completed.
+2025-04-17 11:12:08 - #########################################################################################
